@@ -2,6 +2,8 @@
 
 ## 📌 Overview
 Led transformation of legacy CRM systems using AI/ML-driven process mining and BPMN models. Migrated 7 legacy platforms into IBM BPM/MDM.
+## 🔍 Related Work
+- 🤖 [AI/ML Process Mining POC – Nationwide Sub-Project](https://github.com/praveenparimi1/ai-process-mining-poc)
 
 ## 🧩 Role & Responsibilities
 - Designed As-Is/To-Be workflows using Blueworks Live & MS Visio
